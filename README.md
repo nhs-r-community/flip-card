@@ -2,7 +2,7 @@
 
 Flip card using html and css code from a GitHub 
 [tutorial](https://github.com/russs123/flipcard-tut?tab=readme-ov-file) and 
-[YouTube video](Following YouTube video: https://www.youtube.com/watch?v=NCLdf661ILE)
+[YouTube video](https://www.youtube.com/watch?v=NCLdf661ILE)
 
 Change the card size (width and height) in `style.css`:
 
